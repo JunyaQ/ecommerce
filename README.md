@@ -52,5 +52,5 @@ In the console, make connection to localhost, with "npm run start"<br/>
 - delete product: http://localhost:3001/api/products/:id
 
 ## video with demo
-- [set up database](https://drive.google.com/file/d/18Kh9U9VzQifnOyhYzkjL_UsPUf4deDdl/view?usp=sharing)<br/>
+- [set up database](https://drive.google.com/file/d/19eN0DRbkk8A3mHSa0nB_RZSXu6WowEeo/view?usp=sharing)<br/>
 - [insomnia walkthrough](https://drive.google.com/file/d/1B9xWh8V_cwEqNyBsH1glXVvFZfi-uWTp/view?usp=sharing)
