@@ -1,4 +1,4 @@
-# Bootcamp_challenge13_ecommerce
+# Ecommerce
 ## Ecommerce backend application
 This application is to update the ecommerce store data, including, 
 - Product (id, product name, price, stock and category)
