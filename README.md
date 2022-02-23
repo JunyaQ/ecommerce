@@ -26,7 +26,7 @@ THEN I am able to successfully create, update, and delete data in my database<br
 - use ecommerce_db
 - npm run seed <br/>
 
-## Start application with Insomnia
+## Testing application with Insomnia
 In the console, make connection to localhost, with "npm run start"<br/>
 
 ### Categories
