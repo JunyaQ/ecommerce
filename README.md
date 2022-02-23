@@ -7,7 +7,7 @@ This application is to update the ecommerce store data, including,
 - product tag (id, product id and tag id)<br/>
 It is well routed which means you can check different product, category, tag or product tag, and do delete, edit (update) or add new product/category/ tag/ product tag
 
-##About the application
+## About the application
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file<br/>
 THEN I am able to connect to a database using Sequelize<br/>
 WHEN I enter schema and seed commands<br/>
@@ -50,6 +50,12 @@ In the console, make connection to localhost, with "npm run start"<br/>
 - update product with changed information: http://localhost:3001/api/products/:id
 - create new product: http://localhost:3001/api/products
 - delete product: http://localhost:3001/api/products/:id
+
+## Technologies use
+- Javascript
+- Node js
+- Express js
+- MySQL
 
 ## video with demo
 - [set up database](https://drive.google.com/file/d/19eN0DRbkk8A3mHSa0nB_RZSXu6WowEeo/view?usp=sharing)<br/>
